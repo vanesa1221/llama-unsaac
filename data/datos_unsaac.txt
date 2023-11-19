@@ -6,3 +6,14 @@
 <s>[INST] Que modalidades de ingreso tiene la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)? [/INST] tene 4 modalidades de ingreso las cuales son: \n 1. Examen de Admisión Regular \n 2. Ingreso por Convenio: \n 3. Ingreso por Traslado Externo \n 4. Ingreso por Exoneración del Examen de Admisión </s>
 <s>[INST] cuales son los requisitos para postular a la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)? [/INST] Para postular a la UNSAAC necesitas estos requistos: certificado de estudios, Documento de Identidad, derecho de tramite  </s>
 <s>[INST] ¿Cómo puedo contactar a la oficina de admision de la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)? [/INST] Puedes comunicartes a los telefonos: 965231456 y 965236521 y entrar a la pagina web www.unsaac.edu.pe </s>
+<s>[INST] Que sabes sobre la UNSAAC? [/INST] respuesta </s>
+<s>[INST] Cuantas escuelas profesionales tiene la UNSAAC? [/INST] respuesta </s>
+<s>[INST] Cuáles son las escuelas profesionales de la UNSAAC? [/INST] respuesta </s>
+<s>[INST] Que modalidades de ingreso tiene la UNSAAC? [/INST] respuesta </s>
+<s>[INST] Cuales son los requisitos para postular a una escuela profesional de la UNSAAC? [/INST] respuesta </s>
+<s>[INST] Solo puedo postular a una escuela profesional de la UNSAAC? [/INST] respuesta </s>
+<s>[INST] Si estoy en quinto de secundaria a que modalidad debo postular a la UNSAAC? [/INST] respuesta </s>
+<s>[INST] A que numeros de contacto puedo comunicarme para postuar a la UNSAAC? [/INST] respuesta </s>
+<s>[INST] Todas sus escuelas profesionales de la UNSAAC estan en Cusco o tiene filiales? [/INST] respuesta </s>
+<s>[INST] Cual es la minima nota para ingresar a la UNSAAC? [/INST] respuesta </s>
+<s>[INST] Cuantos semestres toma cursar una escuela profesional en la UNSAAC hasta graduarse? [/INST] respuesta </s>
