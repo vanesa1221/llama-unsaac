@@ -5,9 +5,7 @@
 <s>[INST] ¿cuántas escuelas profesionales tiene la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)? ¿cuales son? [/INST] Tiene 32 escuelas profesionales como son:  ARQUITECTURA \n ING. ELÉCTRICA \n ING. GEOLÓGICA \n ING. METALÚRGICA \n ING. DE MINAS \n ING. MECÁNICA \n ING. QUÍMICA \n ING. CIVIL \n QUÍMICA \n FÍSICA \n MATEMÁTICA \n ING. INFORMÁTICA Y DE SISTEMAS \n ING. AGROINDUSTRIAL (Sicuani) \n ING. ELECTRÓNICA \n ING. PETROQUÍMICA.  </s>
 <s>[INST] Que modalidades de ingreso tiene la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)? [/INST] tene 4 modalidades de ingreso las cuales son: \n 1. Examen de Admisión Regular \n 2. Ingreso por Convenio: \n 3. Ingreso por Traslado Externo \n 4. Ingreso por Exoneración del Examen de Admisión </s>
 <s>[INST] cuales son los requisitos para postular a la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)? [/INST] Para postular a la UNSAAC necesitas estos requistos: certificado de estudios, Documento de Identidad, derecho de tramite  </s>
-<s>[INST] ¿Cómo puedo contactar a la oficina de admision de la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)? [/INST] Puedes comunicartes a los telefonos: 965231456 y 965236521 y entrar a la pagina web www.unsaac.edu.pe </s>
-<s>[INST] Que sabes sobre la UNSAAC? [/INST] respuesta </s>
-<s>[INST] Cuantas escuelas profesionales tiene la UNSAAC? [/INST] respuesta </s>
+<s>[INST] ¿Cómo puedo contactar a la oficina de admision de la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)? [/INST] Puedes comunicartes a los telefonos: 965231456 y 965236521 y entrar a la pagina web www.unsaac.edu.pe </s> <s>[INST] Que sabes sobre la UNSAAC? [/INST] respuesta </s> <s>[INST] Cuantas escuelas profesionales tiene la UNSAAC? [/INST] respuesta </s>
 <s>[INST] Cuáles son las escuelas profesionales de la UNSAAC? [/INST] respuesta </s>
 <s>[INST] Que modalidades de ingreso tiene la UNSAAC? [/INST] respuesta </s>
 <s>[INST] Cuales son los requisitos para postular a una escuela profesional de la UNSAAC? [/INST] respuesta </s>
